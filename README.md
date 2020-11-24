@@ -6,12 +6,13 @@ A curated list of awesome things related to the Moneysocket protocol. A socket-b
 
 DISCLAIMER - Moneysocket is still new, under development and is Reckless with your money. Use this stuff at your own risk.
 
+
 Documentation
 ------------------------------------------------------------------------
 
 * (Actual official documentation is forthcoming)
 * A [development playlist](https://www.youtube.com/playlist?list=PLqE3dWTuqRc8p8C3O_zlbrkYuGENCaVqp) of demos and discussion journaling the thought process to-date.
-* A loose collection of [brainstorm diagrams](https://github.com/moneysocket/prototype/tree/master/doc/diagrams) is in the prototype repo.
+* A loose collection of [brainstorm diagrams](https://github.com/moneysocket/prototype/tree/master/doc/diagrams) is in the prototype repo in [.dia](https://en.wikipedia.org/wiki/Dia_%28software%29) format.
 *
 
 
@@ -44,3 +45,11 @@ Applications
 Utilities
 ------------------------------------------------------------------------
 * [Beacon Codec](https://github.com/moneysocket/prototype/blob/master/browser/src/js/encode-decode.js) - A browser-based beacon coder and decoder utility. (TODO - host this somewhere)
+
+Project Links
+------------------------------------------------------------------------
+
+- [Homepage](https://socket.money).
+- [Twitter](https://twitter.com/moneysocket)
+- [Telegram](https://t.me/moneysocket)
+- [Donate](https://socket.money/#donate)
