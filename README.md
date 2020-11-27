@@ -31,7 +31,7 @@ Infrastructure
 
 Wallets
 ------------------------------------------------------------------------
-* [web-wallet](https://github.com/moneysocket/web-wallet) - A browser-based JavaScript wallet that consumes a Moneysocket connection and also provides an outgoing connection.
+* [web-wallet](https://github.com/moneysocket/web-wallet) - A browser-based JavaScript wallet that consumes a Moneysocket connection and also provides an outgoing connection. A build is hosted [here](https://socket.money/wallet).
 
 Applications
 ------------------------------------------------------------------------
