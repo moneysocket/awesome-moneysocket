@@ -35,6 +35,7 @@ Wallets
 
 Applications
 ------------------------------------------------------------------------
+* [Moon Money Mover 3000](https://github.com/moneysocket/mover) - A simple application for moving money between two Moneysocket provider connections. A build is hosted [here](https://socket.money/mover)
 * [Satopong](https://github.com/drschwabe/satopong) - A (WIP) application for a Moneysocket-driven arcade game of Pong.
 * [Opinion Buyer and Seller](https://github.com/moneysocket/bs-demo) - a demo of the definition a custom extension to the Moneysocket protocol for buying/selling particular digital goods over a connection. A build is hosted for the [buyer](https://socket.money/bs-demo/buyer.html) and the [seller](https://socket.money/bs-demo/seller.html)
 
