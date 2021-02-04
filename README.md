@@ -32,7 +32,10 @@ Infrastructure
 
 Wallets
 ------------------------------------------------------------------------
-* [web-wallet](https://github.com/moneysocket/web-wallet) - A browser-based JavaScript wallet that consumes a Moneysocket connection and also provides an outgoing connection. A build is hosted [here](https://socket.money/wallet).
+* [Costanza Wallet](https://github.com/moneysocket/costanza) - A browser-based wallet for Moneysocket. It's key feature is that provides an upstream Moneysocket connection to an app and allows you to control the permissions for spending via that connection. It is not meant to compete with leading wallets for daily driver use. It's purpose is to assist bootstrapping the Moneysocket protocol by pioneering presenting something approximating what a real-world user will experience from a Moneysocket-enabled wallet. A build is hosted [here](https://socket.money/wallet).
+
+* (Deprecated - use Costanza 👍) [web-wallet](https://github.com/moneysocket/web-wallet) - A browser-based JavaScript wallet that consumes a Moneysocket connection and also provides an outgoing connection. This was very basic to get started, but not intended for real use and will make your eyes bleed.
+
 
 Applications
 ------------------------------------------------------------------------
