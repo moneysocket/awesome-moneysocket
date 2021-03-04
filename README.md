@@ -22,6 +22,8 @@ Protocol Implementations
 * [js-moneysocket](https://github.com/moneysocket/js-moneysocket) - Reference JavaScript Library
 * [py-moneysocket](https://github.com/moneysocket/py-moneysocket) - Reference Python Library
 
+* [moneysocket-go](https://github.com/xplorfin/moneysocket-go) - In-progress Go implementation.
+
 Infrastructure
 ------------------------------------------------------------------------
 
