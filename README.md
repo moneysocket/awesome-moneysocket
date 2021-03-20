@@ -49,6 +49,8 @@ Utilities
 ------------------------------------------------------------------------
 * [Beacon Codec](https://github.com/moneysocket/beacon-codec) - A browser-based beacon coder and decoder utility. A build is hosted [here](https://socket.money/codec).
 
+* [Custodial Frontend](https://github.com/moneysocket/custodial) - A web configuration frontend for the Terminus. Allows hosting a custodial websocket provider. One such custodial provider is provided at [custodial.socket.money](https://custodial.socket.money).
+
 Project Links
 ------------------------------------------------------------------------
 
