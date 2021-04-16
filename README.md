@@ -36,12 +36,12 @@ Wallets
 ------------------------------------------------------------------------
 * [Costanza Wallet](https://github.com/moneysocket/costanza) - A browser-based wallet for Moneysocket. It's key feature is that provides an upstream Moneysocket connection to an app and allows you to control the permissions for spending via that connection. It is not meant to compete with leading wallets for daily driver use. It's purpose is to assist bootstrapping the Moneysocket protocol by pioneering presenting something approximating what a real-world user will experience from a Moneysocket-enabled wallet. A build is hosted [here](https://socket.money/wallet).
 
-* (Deprecated - use Costanza 👍) [web-wallet](https://github.com/moneysocket/web-wallet) - A browser-based JavaScript wallet that consumes a Moneysocket connection and also provides an outgoing connection. This was very basic to get started, but not intended for real use and will make your eyes bleed.
+* (Deprecated - use Costanza) [web-wallet](https://github.com/moneysocket/web-wallet) - A browser-based JavaScript wallet that consumes a Moneysocket connection and also provides an outgoing connection. This was very basic to get started, but not intended for real use and will make your eyes bleed.
 
 
 Applications
 ------------------------------------------------------------------------
-* [Monesysocket Chat](https://github.com/moneysocket/chat) - A (WIP) payment-driven chat application.
+* [Monesysocket Chat](https://github.com/moneysocket/chat) - A payment-driven chat application. App is running [here](https://socket.money/chat).
 * [Moon Money Mover 3000](https://github.com/moneysocket/mover) - A simple application for moving money between two Moneysocket provider connections. A build is hosted [here](https://socket.money/mover)
 * [Satopong](https://github.com/drschwabe/satopong) - A (WIP) application for a Moneysocket-driven arcade game of Pong.
 * [Opinion Buyer and Seller](https://github.com/moneysocket/bs-demo) - a demo of the definition a custom extension to the Moneysocket protocol for buying/selling particular digital goods over a connection. A build is hosted for the [buyer](https://socket.money/bs-demo/buyer.html) and the [seller](https://socket.money/bs-demo/seller.html)
