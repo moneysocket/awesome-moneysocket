@@ -11,6 +11,7 @@ Documentation
 ------------------------------------------------------------------------
 
 * (Actual official documentation is forthcoming)
+* [Tutorial](https://socket.money/tutorial) - A beginner hands-on introduction for setting up a Moneysocket wallet and start using Moneysocket Chat in a few minutes.
 * [Stablewallet Leatherpaper](https://socket.money/leatherpaper.html) - A brief standalone explanation of the Stablewallet concept
 * A [development playlist](https://www.youtube.com/playlist?list=PLqE3dWTuqRc8p8C3O_zlbrkYuGENCaVqp) of demos and discussion journaling the thought process to-date.
 * A loose collection of [brainstorm diagrams](https://github.com/moneysocket/prototype/tree/master/doc/diagrams) is in the prototype repo in [.dia](https://en.wikipedia.org/wiki/Dia_%28software%29) format.
@@ -48,7 +49,7 @@ Applications
 
 Utilities
 ------------------------------------------------------------------------
-* [Beacon Codec](https://github.com/moneysocket/beacon-codec) - A browser-based beacon coder and decoder utility. A build is hosted [here](https://socket.money/codec).
+* [Beacon Codec](https://github.com/moneysocket/beacon-codec) - A browser-based beacon coder and decoder utility. A build is hosted [here](https://socket.money/beacon).
 
 * [Custodial Frontend](https://github.com/moneysocket/custodial) - A web configuration frontend for the Terminus. Allows hosting a custodial websocket provider. One such custodial provider is provided at [custodial.socket.money](https://custodial.socket.money).
 
