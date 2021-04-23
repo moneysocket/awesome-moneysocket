@@ -12,9 +12,10 @@ Documentation
 
 * (Actual official documentation is forthcoming)
 * [Tutorial](https://socket.money/tutorial) - A beginner hands-on introduction for setting up a Moneysocket wallet and start using Moneysocket Chat in a few minutes.
+* [Beacons](https://socket.money/beacon) - An ELI5 and ELI20 explaination and encode/decode tool for beacon strings
+* [Specification](https://github.com/moneysocket/moneysocket-rfc) - The WIP specification for the Moneysocket protocol.
 * [Stablewallet Leatherpaper](https://socket.money/leatherpaper.html) - A brief standalone explanation of the Stablewallet concept
 * A [development playlist](https://www.youtube.com/playlist?list=PLqE3dWTuqRc8p8C3O_zlbrkYuGENCaVqp) of demos and discussion journaling the thought process to-date.
-* A loose collection of [brainstorm diagrams](https://github.com/moneysocket/prototype/tree/master/doc/diagrams) is in the prototype repo in [.dia](https://en.wikipedia.org/wiki/Dia_%28software%29) format.
 
 
 Protocol Implementations
